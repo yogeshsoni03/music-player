@@ -1,0 +1,60 @@
+.border {
+    border: 1px solid red;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-content {
+    justify-content: center;
+}
+
+.align-items {
+    align-items: center;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-gray {
+    background-color: #232323;
+}
+
+.p-1 {
+    padding: 14px;
+}
+
+.round {
+    border-radius: 14px;
+}
+
+.m-1 {
+    margin: 8px
+}
+
+.justify-space-between {
+    justify-content: space-between;
+}
+
+/* Scrollbar width */
+::-webkit-scrollbar {
+    width: 14px;
+}
+
+/* Track (background) */
+::-webkit-scrollbar-track {
+    background: #111;
+}
+
+/* Scroll thumb (moving part) */
+::-webkit-scrollbar-thumb {
+    background: #313131;
+    border-radius: 8px;
+}
+
+/* Hover effect */
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(96, 95, 92);
+}

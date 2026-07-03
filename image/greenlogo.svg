@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 512 512"
+     width="200"
+     height="200">
+
+    <!-- Green Background with border-radius 50% -->
+    <rect width="512" height="512" fill="#1DB954" rx="256" ry="256"/>
+
+    <!-- Wave 1 -->
+    <path d="M120 180 C200 140, 312 140, 392 180"
+          stroke="black"
+          stroke-width="28"
+          fill="none"
+          stroke-linecap="round"/>
+
+    <!-- Wave 2 -->
+    <path d="M140 260 C220 220, 292 220, 372 260"
+          stroke="black"
+          stroke-width="28"
+          fill="none"
+          stroke-linecap="round"/>
+
+    <!-- Wave 3 -->
+    <path d="M160 340 C240 300, 272 300, 352 340"
+          stroke="black"
+          stroke-width="28"
+          fill="none"
+          stroke-linecap="round"/>
+
+</svg>
